@@ -8,13 +8,13 @@ h2{
 
 }
 p{
-color: white;
+color: rgb(255, 0, 0);
 font-family: Felix Titling;
 float: right;
 margin-top: 300px;
 margin-right: 40px;
-letter-spacing: 1px;
-font-size: 15px;
+letter-spacing: none;
+font-size: 40px;
 }
 img{
 
